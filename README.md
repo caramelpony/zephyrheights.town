@@ -8,6 +8,10 @@
 ├── src/
 │   ├── components/
 │   │   └── Card.astro
+|   |   └── LeftSideNav.astro
+|   |   └── NavHr.astro
+|   |   └── NavItem.astro
+|   |   └── NoticeCard.astro
 │   ├── layouts/
 │   │   └── Layout.astro
 │   └── pages/
